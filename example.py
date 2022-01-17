@@ -8,5 +8,3 @@ printf("hello! world")
 a = scanf(str)
 b = scanf(int)
 c = scanf(float)
-
-# contribute your work to this project it will be appreciated
