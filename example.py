@@ -8,3 +8,4 @@ printf("hello! world")
 a = scanf(str)
 b = scanf(int)
 c = scanf(float)
+# more functions to be added
